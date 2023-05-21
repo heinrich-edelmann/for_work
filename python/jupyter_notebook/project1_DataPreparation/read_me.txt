@@ -5,7 +5,7 @@
 
 -- the files are organized as follows:
 
--Lösung Aufgabe 1  →  the jupyter notebook containing the python code
+-Lösung_Aufgabe1  →  the jupyter notebook containing the python code
 -PräsentationAufgabe1  →  powerpoint prasentation of the data analysis
 -Aufgabe 1 - IMDB Top 250.xlsx  →   the excel table with the data
 -Aufgabe 1 - IMDB Top 250.docx  →  the exercises and questions
