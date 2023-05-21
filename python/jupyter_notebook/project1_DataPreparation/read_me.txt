@@ -1,4 +1,4 @@
---This project consists of preparaing the data of an excel table with 250 rows and 13 columns
+--This project consists of preparing the data of an excel table with 250 rows and 13 columns
 
 
 - Everything was done in german, but I believe the work with the code and the data is visible and is in a way organized so that one can follow the code step by step.
