@@ -311,20 +311,16 @@ def process_data():
             'Dezember':12
         }
 
-        # rows related to the values of "Customer Acquisition Cost" are taken off the table for those represent a theoretical value
-        table_costs_noAV = (table_costs[table_costs["Title"] != "Customer Acquisition Cost"])
         # the costs per month are calculated and put into a pivot table
-        pivot_table_gesamteKosten = pd.pivot_table(table_costs_noAV, values='Value', index="entsprechendMonat", columns='Title', aggfunc='sum')
+        pivot_table_gesamteKosten = pd.pivot_table(table_costs, values='Value', index="entsprechendMonat", columns='Title', aggfunc='sum')
         pivot_table_gesamteKosten = pivot_table_gesamteKosten.reset_index().reset_index(drop=True)
         # the new costs table is reindexed with the new_order list and the result is put into the variable gesamteKosten
         gesamteKosten = pivot_table_gesamteKosten.reindex(new_order)
         gesamteKosten = gesamteKosten.reset_index(drop=True)
         # The table gesamteKosten will be important for the creation of the tables that shall be uploaded into the Database.
 
-        # rows related to the values of "Customer Lifetime Value" are taken off the table for those represent a theoretical value
-        table_income_noCLV = table_income[table_income["Title"] != "Customer Lifetime Value"]
         # the costs per month are calculated and put into a pivot table
-        table_gesamteEinkommen = pd.pivot_table(table_income_noCLV, values='Value', index="entsprechendMonat", columns='Title', aggfunc='sum')
+        table_gesamteEinkommen = pd.pivot_table(table_income, values='Value', index="entsprechendMonat", columns='Title', aggfunc='sum')
         table_gesamteEinkommen = table_gesamteEinkommen.reset_index().reset_index(drop=True)
         # the new income table is reindexed with the new_order list and the result is put into the variable gesamteEinkommen
         gesamteEinkommen = table_gesamteEinkommen.reindex(new_order)
@@ -447,8 +443,6 @@ def process_data():
 
 
 
-
-#schedule_task()
 
 if __name__ == '__main__': #  accessing the port5000(optional, one can also use other ports) 
     app.run(port=5000)     # will execute the application
