@@ -1,0 +1,5 @@
+KPI_ID,Title,Description
+0,Monthly Employee Costs,"Actual costs of internal employees (not including freelancers, etc.)"
+1,Monthly Freelancer costs,Total monthly expenses of external team members (employee costs are excluded)
+2,Monthly Revenue,Actual revenue of the month
+3,Other expenses,Costs not included to freelancer or employee costs

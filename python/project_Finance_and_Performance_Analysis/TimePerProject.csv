@@ -1,0 +1,653 @@
+Project,Client,Description,Time (h),Time (decimal),ID,MonthYear,Person,entsprechendMonat
+FTWDao,(Without client),Membership page 1/2,0 days 02:33:27,2.5575,40,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),ButterCMS + Membership Page,0 days 04:36:04,4.601111111111111,41,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Membership Page,0 days 01:13:15,1.2208333333333334,42,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Detail work on landing page and membership page / Meeting with Ninja,0 days 03:17:06,3.285,43,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),"Butter CMS design issues, design guideline change",0 days 03:35:29,3.591388888888889,44,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Landing Page,0 days 00:44:00,0.7333333333333333,45,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Landing page setup,0 days 03:47:36,3.793333333333333,46,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Landing Page issues,0 days 03:30:30,3.5083333333333333,47,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),checkout first todos,0 days 02:40:48,2.68,48,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Spotify SDK,0 days 04:39:00,4.65,49,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Quivr spotify fetch loop,0 days 02:32:35,2.543055555555556,50,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Twitter / Spotify,0 days 04:40:33,4.675833333333333,51,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Quivr Aggregators; check last update; error handling for aggregate all at once,0 days 01:00:00,1.0,52,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Twitter / Spotify / OAuth,0 days 02:47:23,2.789722222222222,53,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Oracle Chainlink / Deco,0 days 02:43:10,2.719444444444445,54,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Quivr Meeting,0 days 01:10:00,1.1666666666666667,55,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),"Quivr review changes; check spotify loop; profilenft, badgenft;",0 days 01:15:00,1.25,56,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Twitter Data fetch,0 days 04:24:35,4.409722222222222,57,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),"Spotify SDK, tracks, albums, artists",0 days 04:49:52,4.831111111111111,58,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),"on chain metadata, Oracles, Chainlink, P2P",0 days 05:19:47,5.329722222222222,59,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Quivr manage data refresh on login with refresh token spotify,0 days 01:41:32,1.6922222222222223,60,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Spotify SDK implementation,0 days 03:00:00,3.0,61,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Quivr,(Without client),Spotify Algorithm / Retake / on login loop,0 days 02:59:55,2.998611111111111,62,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Boba,(Without client),"Slack (John),",0 days 00:02:48,0.0466666666666666,63,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Ino, Yoonhee)",0 days 00:02:00,0.0333333333333333,64,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John), Design Doc, LinkedIn (Frontend Dev communication & outreach), All-Hands meeting, PR review #516, ..",0 days 02:28:00,2.466666666666667,65,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, Steam/Dota2 Shark/Minnow Flow try-out + research + flow diagram (custom lobby, gameplay, ..), Recruiting Huddle Call, Weekly Dev Meeting, ..",0 days 05:06:00,5.1,66,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Yoonhee), NestJS BE setup, test route & model for both FE&BE added for full test, CORS, Swagger integration, NextJS static site generator setup, OpenAPI Generator for FE&BE sync, clean setup done, ..",0 days 07:12:00,7.2,67,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Yoonhee/John Meeting, Slack, ..",0 days 01:05:33,1.0925,68,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),Slack (Yoonhee),0 days 00:01:00,0.0166666666666666,69,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, ..",0 days 00:02:00,0.0333333333333333,70,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John), LinkedIn (Seth->Streamer search), ..",0 days 00:05:22,0.0894444444444444,71,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, PR #489, Dota2API research for matchId/lobby etc, getting new Steam API key, username->steamID API route, steamID->accountID(steam32 format research&debug -> works now), ..",0 days 04:15:00,4.25,72,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John - brainstorming API product idea, Rupert deployment), Genevive candidate, minor bug fixes, ..",0 days 01:19:48,1.33,73,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, Tg & Organizational, ..",0 days 00:06:53,0.1147222222222222,74,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Genevive -> Frontend Dev), ..",0 days 00:03:00,0.05,75,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),Figma,0 days 00:01:43,0.0286111111111111,76,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, Stealth Addr., Frontend-Work (Nav fixes, general theme, responsiveness, global grid system, ..), Tournaments Page start,..",0 days 06:20:00,6.333333333333333,77,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Yoonhee), fix SCSS integration, MongoDB setup, Docker & Compose setup (mongo + nextjs), hot reload backend in Docker configured, ..",0 days 04:10:00,4.166666666666667,78,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),Slack,0 days 00:24:03,0.4008333333333333,115,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),Slack (John),0 days 00:01:00,0.0166666666666666,116,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John, read up,..), Genevive Meeting, E-Mail correspondence, PR review #526, PR review #494, Yoonhee Mockups/Wireframes feedback, organizational tasks, John Meeting (Name search, PM, etc.), Call scheduling (Yoonhee,John,..)",0 days 02:33:00,2.55,79,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John, Yoonhee), ..",0 days 00:17:19,0.2886111111111111,80,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John -> Project setup), Seth (Streamer), ..",0 days 00:07:37,0.1269444444444444,81,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, John Meeting, ..",0 days 01:13:37,1.2269444444444444,82,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Full steam integration (user check & different identifier dynamic check & dota2 game ownership check, ..), Split testing setup, change home route, add toasts & react to dummy clicks & notify user, Frontend boilerplate text based on Mockups, Backend fixes for more resilience, ..",0 days 04:07:06,4.118333333333333,83,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"LinkedIn Sales Navigator (more FE devs), ..",0 days 00:07:45,0.1291666666666666,84,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Fix Steam Backend Username Resolver, check logic FE, ..",0 days 00:27:13,0.4536111111111111,85,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John, ..)",0 days 00:04:51,0.0808333333333333,86,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John), ..",0 days 00:09:26,0.1572222222222222,87,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Bobaverse basic project setup (NextJS, SCSS, ..), PR #515, ..",0 days 01:01:00,1.0166666666666666,88,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Rupert Deployment, Yoonhee Mockups, ..), fixing UI bugs (borders, etc.), adapting to V3 mockups from Yoonhee (Steam form, etc.) & new user flows such as confirming participation (email, ..), fixed steamID verification BE, fixed header rgba issue, DB model etc. for players having bids, fixed NullPointers, joined logic FE, fixing player provider bug, player data previously saved now for more resilience, ..",0 days 05:01:44,5.028888888888889,89,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John), BobaVerse Risk Management Analysis (SWIFT) & research, ..",0 days 02:58:20,2.9722222222222223,90,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Gian,..), Github, ..",0 days 00:09:22,0.1561111111111111,91,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"W8BEN-E settlement & creation, E-Mail correspondence, ..",0 days 00:34:52,0.5811111111111111,92,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, Serviceable-Addressable-Market [SAM] research / calculation / documentation, ..",0 days 04:22:23,4.373055555555555,93,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack & ZK for Flashpit (new name for Bobaverse), ..",0 days 00:08:22,0.1394444444444444,94,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, SOM research / calculation / documentation, ..",0 days 03:56:31,3.941944444444444,95,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John, read-up), ..",0 days 00:04:55,0.0819444444444444,96,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"PR #485 review, ..",0 days 00:04:04,0.0677777777777777,97,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Bid error handling, accept/deny invite logic (queries, backend models changes, ..), cleanup, fix fragment link error, Slack (Yoonhee), MongoUI for changing bidder selection, add logic for confirming/denying participation incl. auth token etc., PR review #547, bid not saved bug, switched to DTOs, resolved token issue, resolved idx bug, fixed parsing bool issue, fixing header sections based on V3 mockups, added myprogress section, ..",0 days 06:49:55,6.831944444444445,98,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Jia, John, Yoonhee), Frontend Work (Modal & User flow, other CSS fixes, responsiveness, ..), Backend Bid (Post body debug resolved, saving bids works), PR review #508, fix SideNav active selection, removed BaseFee from UI as requested, DockerCompose production deployment debugging, ..",0 days 09:39:00,9.65,99,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John),..",0 days 00:01:00,0.0166666666666666,100,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Adapting Frontend to newest Mockup version (change font & started fixing associated UI bugs, ..), Fullstack developer interview, Slack (Yoonhee, Genevive, John), ..",0 days 01:27:14,1.4538888888888888,101,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, Weekly Dev Meeting, John Brainstorming, ..",0 days 02:00:50,2.013888888888889,102,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, Docker & Compose setup for FE&BE to have full stack running with hot-reload (package debugging, BE Dockerfile setup, DB connection fix, volume path fix)",0 days 03:49:00,3.816666666666667,103,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"E-Mail correspondence (Ramp), Slack, TAM/SAM/SOM Bobaverse research & creation, TAM done, PM, install & setup Dota-2, ..",0 days 03:26:15,3.4375,104,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John -> Brainstorming), ..",0 days 00:17:49,0.2969444444444444,105,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"PR review #492, ",0 days 00:04:00,0.0666666666666666,106,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Frontend work (Tournaments page), Yoonhee/John Meeting, Slack (Gian), PR #499, PR review #476, Tab Descdendant bug resolved, ..",0 days 07:10:13,7.170277777777778,107,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, PR #489 review, organizational (Zenhub, Github, ..), ..",0 days 00:33:16,0.5544444444444444,108,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, FE&BE env integration, DB env integration, DB persistency, creating production Dockerfiles & Compose (debugging), local non-docker env setup (debugging, fixed), weekly Dev meeting, GlobalFetch issue debugging & generator fix, clean up issues GH Erigon, Alvaro Call & Feedback, ..",0 days 06:20:23,6.339722222222222,109,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John, Genevive -> alternative Dev, Yoonhee), regular PM, Milestone plan setup & creation, Frontend-Dev interview, Essential features list, Yoonhee setup DesignDoc, etc..",0 days 04:42:07,4.701944444444444,110,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),Slack (Alan),0 days 00:00:59,0.0163888888888888,111,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Weekly meeting, Yoonhee Preparation, Yoonhee Meeting + Organizational, Slack, ..",0 days 02:59:00,2.9833333333333334,112,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack & organizational, PR review #510, How might people cheat, PM, ..",0 days 01:58:11,1.9697222222222224,113,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Setup & Selection UI framework, fixed BE Port generation bug, Frontend work (TopNav, Sidenav, ...), ..",0 days 05:53:00,5.883333333333334,114,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"LinkedIn (Yoonhee), Slack (John, Gian, Genevive), ..",0 days 00:07:53,0.1313888888888889,117,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Gian -> Bobaverse Gaming group, ..), ..",0 days 00:06:04,0.1011111111111111,118,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John, Yoonhee, ..)",0 days 00:03:35,0.0597222222222222,119,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Yoonhee - Genevive), ..",0 days 00:02:14,0.0372222222222222,120,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John, Gian, Yoonhee, ..)",0 days 00:05:32,0.0922222222222222,121,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Alan Meeting, Slack, ..",0 days 00:08:02,0.1338888888888889,122,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (John, Genevive, ..), Bobaverse PM clean up & organizational, PR review #509, Yoonhee - Kickoff, Mockup Setup to get Designer started, ..",0 days 02:23:41,2.394722222222222,123,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Frontend Work (Adaption to new mockups: Icons replaced, Help btn, ,..), Slack, Short Sync Dev Meeting, Steam Backend services (e.g. username->SteamID), ..",0 days 05:09:00,5.15,124,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"LinkedIn (Yoonhee), ..",0 days 00:02:25,0.0402777777777777,125,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, acc not found issue (works now), get matches of account + sort + find with specific player --> main API flow done&tested&working, new technical flow based on API calls & sequence diagram & documentation, Chris Gonsales/John meeting, All-Hands meeting, Genevive Frontend Dev, ..",0 days 06:09:00,6.15,126,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack, Value Proposition Canvas (Sharks, Minnow), ERRC-Grid, Documentation & PM, John Meeting (Zenhub, ..), ..",0 days 04:12:54,4.215,127,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Persona review, ..)",0 days 00:05:09,0.0858333333333333,128,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),"Slack (Genevive), Cold approach of a lot of Senior Frontend Devs via E-Mail/LinkedIn Sales Navigator & documentation, PR #512 review, Design-Doc Yoonhee start & research, ..",0 days 04:55:43,4.928611111111112,129,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+FTWDao,(Without client),"Telegram, Azure Login/Setup, Backend autostart for reboot, Backend start to fix login & admin panel, ..",0 days 00:43:00,0.7166666666666667,130,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+FTWDao,(Without client),"Linux VM - Connection try out (Backend deployment), PM, ..",0 days 00:05:35,0.0930555555555555,131,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+FTWDao,(Without client)," Telegram, Backend debugging, Isla Meeting",0 days 00:34:47,0.5797222222222222,132,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+FTWDao,(Without client),"Telegram, internal Organisation (PM), CI/CD discussion, Robert meeting, ..",0 days 00:25:19,0.4219444444444444,133,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Quivr,(Without client),"Ray Meeting, ..",0 days 00:37:41,0.6280555555555556,134,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Quivr,(Without client),"Meeting (Quivr), Meeting Chris->Oracles, Undo upgradeable, ..",0 days 03:14:01,3.233611111111111,135,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Quivr,(Without client),"Local setup of full stack, spotify debugging, slack, etc.",0 days 07:07:59,7.133055555555556,136,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Quivr,(Without client),"Meeting, ..",0 days 00:20:52,0.3477777777777778,137,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Quivr,(Without client),Oracle Meeting,0 days 00:35:32,0.5922222222222222,138,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Quivr,(Without client),Meeting,0 days 00:17:00,0.2833333333333333,139,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Quivr,(Without client),"meetings, ..",0 days 00:48:48,0.8133333333333334,140,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Unuslabs,(Without client),call,0 days 00:23:13,0.3869444444444444,141,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Unuslabs,(Without client),Meeting,0 days 00:12:21,0.2058333333333333,142,"[2023-01-01, 2023-02-01)",Kyle Reynolds,Januar
+Boba,(Without client),[DEV+SETUP] Boba,0 days 02:40:00,2.6666666666666665,143,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Boba,(Without client),[DEV] Boba Setup,0 days 03:00:00,3.0,144,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+FTWDao,(Without client),[MEETING] 01.02.23 | Team-Page-V2 Blog-Sharing,0 days 00:38:00,0.6333333333333333,145,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+FTWDao,(Without client),[DEV] Team-V2-Page final checks,0 days 00:26:17,0.4380555555555555,146,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+FTWDao,(Without client),[DEV] bug fixing: FE bug Roadmap,0 days 00:10:00,0.1666666666666666,147,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Meetings,(Without client),"Meeting: After incert, general talk, Quivr, Boba",0 days 00:56:00,0.9333333333333332,148,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[MEETING] Kevin + Joe about Twitter API - which requests do we need?,0 days 01:00:00,1.0,149,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV] Twitter Aggregator, Spotify clean up after",0 days 00:00:00,0.0,150,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV] View, Queries",0 days 02:50:58,2.8494444444444444,151,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV] SC redeploy, .env file submit and PR merge",0 days 04:21:17,4.354722222222223,152,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV+RESEARCH] Twitter API, what is fetchable?",0 days 00:33:19,0.5552777777777778,153,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] Checking profile mint wallet,0 days 01:34:36,1.5766666666666669,154,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] testing on local,0 days 04:21:14,4.353888888888889,155,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] Spotify PR  Testing  First Badge Logic thoughts,0 days 01:27:03,1.4508333333333334,156,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] Quivr check badge generation for artists  mobile check,0 days 04:37:49,4.630277777777778,157,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV] First Quivr crawler, more mapping tables",0 days 02:00:00,2.0,158,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] fixed encryption issue  spotify db migration and new UI test,0 days 01:43:00,1.7166666666666666,159,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[MEETING] Joe / Kevin / Chris on Steam API, Spotify API and Twitter API",0 days 00:54:44,0.9122222222222224,160,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[MAT+DEV+P2P] twitter OAuth / Flutter,0 days 02:09:22,2.156111111111111,161,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV] Badge Logic, PR + refactoring",0 days 06:33:10,6.552777777777778,162,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] Spotify Crawler,0 days 04:46:13,4.770277777777777,163,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV] Branch Setup, checked ProfileMint && Spotify SDK",0 days 04:17:12,4.286666666666667,164,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] merge and test,0 days 06:17:51,6.2975,165,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV] checking migration scripts, tables",0 days 00:54:19,0.9052777777777776,166,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] Spotify implementing OAuth for both platforms,0 days 05:43:47,5.729722222222223,167,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),[DEV] Spotify OAuth Refresh Token,0 days 03:48:01,3.8002777777777776,168,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Quivr,(Without client),"[DEV] Quivr PR + merge create  test everything, data aggregation, get badges for data",0 days 03:11:04,3.1844444444444444,169,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Sales,(Without client),Find people to sponsor our kids courses,0 days 00:51:17,0.8547222222222223,170,"[2023-02-01, 2023-03-01)",Caroline Johnson,Februar
+Boba,(Without client),"Redesigned boba Ecosystem page, Wallet page",0 days 02:20:17,2.338055555555556,171,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),Redesigned footer and bobaBridge (1.02),0 days 02:12:41,2.211388888888889,172,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),"Redesigned boba, some adjustments to PageFooter, PageHeader (LayerSwitcher)",0 days 04:22:53,4.381388888888889,173,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),Redesign bobaBridge when not connected,0 days 02:41:25,2.6902777777777778,174,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),"Redesign BobaBridge when connected, PageHeader, NetworkSwitcher, LayerSwitcher",0 days 03:02:20,3.0388888888888888,175,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),"onboarding, project setup",0 days 03:11:11,3.1863888888888887,176,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),Redesigned boba Wallet page,0 days 04:35:31,4.591944444444445,177,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),redesigned footer to newest figma template (1.02),0 days 02:13:07,2.218611111111111,178,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),"Redesigned PageHeader, Ecosystem, merge weekly update & setup pull request, fix merge conflicts",0 days 03:48:06,3.8016666666666663,179,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),Redesigned gateway footer to newest figma template (1.02),0 days 02:44:39,2.744166666666666,180,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),Redesigned bobaBrige when not connected,0 days 01:25:51,1.4308333333333334,181,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),"fixing the PR issue (transaction hash, design adjustments)",0 days 02:12:31,2.2086111111111117,182,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),"Redesign History page, push weekly work & fix merge conflicts, update pull request",0 days 04:15:48,4.263333333333334,183,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+CryptoApi,,Matthias API,0 days 00:28:00,0.47,371,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Boba,(Without client),fixing the PR issues and some code adjustments,0 days 05:01:43,5.028611111111111,184,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+Boba,(Without client),"Boba: redesigned/reworked the Tooltip Component, changed the tooltip prop in the Button component according to the Tooltip Component, some changes to PageHeader, Bridge, Wallet",0 days 04:40:39,4.6775,185,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),"First day at work, some set up",0 days 05:25:22,5.422777777777778,186,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),meeting + working on project template,0 days 00:40:12,0.67,187,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),Meeting + some generell stuff,0 days 01:00:00,1.0,188,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),Meeting,0 days 03:30:10,3.5027777777777778,189,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),some general stuff,0 days 00:29:31,0.4919444444444444,190,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),"Working on learning project, made some documentation",0 days 07:31:24,7.523333333333333,191,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),Working on learning project,0 days 14:02:33,14.0425,192,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),"Pushed some own stuff, checked pull review",0 days 01:25:06,1.4183333333333332,193,"[2023-02-01, 2023-03-01)",Daniel Harrison,Februar
+General,(Without client),Typescript Courses,0 days 01:30:00,1.5,194,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Training in Wallets, Blockchain Trilemma, Smart Contracts, Creation of our first token on the Etherum Blockchain, Self-study Confluence resources",0 days 03:20:00,3.333333333333333,195,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"UnitTesting with Foundry, Owner, Ownable, Review of the Project, Creating a Template for Foundry and Hardhat out of this Sample Project, Daily Meeting",0 days 04:30:00,4.5,196,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"learning-project-matthias, Deploy Smart Contract, Interact with it",0 days 02:30:00,2.5,197,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),Explore Test Projects of Wavect Github,0 days 01:00:00,1.0,198,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Setup Tools: Mail, Google Account, Slack , Github, Jira, Confluence",0 days 02:10:00,2.1666666666666665,199,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Typescript Courses, Flutter Setup, Daily Meeting",0 days 03:00:00,3.0,200,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Sales,,"angebot workshop, li",0 days 01:05:18,1.09,672,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,(Without client),"Boilerplate/Template Project final fixes, Overview Quivr, Daily Meeting",0 days 03:30:00,3.5,201,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Daily Meeting, Typescript Courses",0 days 01:00:00,1.0,202,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Quivr Project Training with Christof, 2nd Tasks of learning-project-matthias",0 days 03:30:00,3.5,203,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Quivr Code with me with Christof, Flutter Setup",0 days 01:00:00,1.0,204,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Setup hardhat, use hardhat for learning-project-matthias, Daily Meeting",0 days 02:30:00,2.5,205,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),Daily Meeting,0 days 01:00:00,1.0,206,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),Typescript Udemy Courses,0 days 02:00:00,2.0,207,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),Meeting,0 days 00:15:00,0.25,208,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Internal Projects,,Hackathon,0 days 06:00:00,6.0,406,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,(Without client),"Fixing Problems in 2nd part of learning-project-matthias, Testing with hardhat",0 days 02:30:00,2.5,209,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Fixing Problems in 2nd part of learning-project-matthias, Daily Meeting",0 days 02:30:00,2.5,210,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),"Daily Meeting, Start with learning-project-matthias, Foundry , Create Smart Contract, Smart Contract Tests",0 days 02:30:00,2.5,211,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+General,(Without client),Daily,0 days 00:15:00,0.25,212,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),"Quivr Database setup, SQl Adjustments",0 days 02:15:00,2.25,213,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Twitter aggregator test,0 days 01:15:00,1.25,214,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Twitter aggregator get first data,0 days 05:05:00,5.083333333333333,215,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Twitter Sign In,0 days 01:15:00,1.25,216,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Twitter aggregator Token Swap,0 days 01:00:00,1.0,217,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Twitter aggregator,0 days 02:15:00,2.25,218,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Twitter aggregator start,0 days 03:35:00,3.583333333333333,219,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Twitter Sign debugging,0 days 02:00:00,2.0,220,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Project Problems,0 days 01:00:00,1.0,221,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr aggregator meeting,0 days 02:00:00,2.0,222,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Setup Project,0 days 03:00:00,3.0,223,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Explore Project,0 days 01:05:00,1.0833333333333333,224,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Twitter Sign tests,0 days 01:15:00,1.25,225,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Project Debugging,0 days 01:00:00,1.0,226,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Twitter Sign In ts-backend adjutments,0 days 02:00:00,2.0,227,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Code with me with Christof,0 days 00:50:00,0.8333333333333334,228,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),"Quivr Twitter Sign In,Debuging",0 days 01:15:00,1.25,229,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Twitter Sign In Webview fixes,0 days 01:45:00,1.75,230,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Twitter Sign In Webview,0 days 01:30:00,1.5,231,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),Quivr Sign In,0 days 01:45:00,1.75,232,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Quivr,(Without client),"Quivr Twitter Sign In final fixes,",0 days 00:45:00,0.75,233,"[2023-02-01, 2023-03-01)",Maxwell Simpson,Februar
+Boba,(Without client),"PR review Gateway, PR creation & documentation",0 days 00:53:00,0.8833333333333333,234,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Streamer correspondence,0 days 00:04:00,0.0666666666666666,235,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Streamer correspondence ,0 days 00:03:00,0.05,236,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, Streamer correspondence, Gateway PM, ..",0 days 00:11:23,0.1897222222222222,237,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),PR Gateway,0 days 00:02:00,0.0333333333333333,238,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, All-Hands meeting, ..",0 days 01:04:17,1.071388888888889,239,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Ino/Sahil/Yoonhee), Mockup Fixes FlashPit Yoonhee Feedback (Font, sizes, paddings, icon sizes, etc.), ..",0 days 03:07:11,3.1197222222222223,240,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Sahil/David -> Gateway PckVersion fix, ..), LinkedIn Sales Navigator (Streamer followup & cold outreach), Twitch streamer outreach, Project Management (GH communication, Slack, creating screens for issues to compare with Figma, David, etc.), FlashPit Frontend bugs resolving, ..",0 days 06:32:00,6.533333333333333,241,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Sahil, ..)",0 days 00:03:53,0.0647222222222222,242,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Pot. test engineer for Enya,0 days 00:03:54,0.065,243,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"PR review #549, ..",0 days 00:02:15,0.0375,244,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Streamer communication ,0 days 00:03:00,0.05,245,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Ino, Yoonhee), undo deployment as it generally seems to work (to wait for new enya account) -> process now works, ..",0 days 00:24:56,0.4155555555555555,246,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Moving over Project Management to GH Projects, Slack (Ino, Flashpit, ..), creating production ready docker-compose, Dockerfiles & debugging, fixing prod build related bugs (responsiveFont, Icons, ..), trying to deploy compose stack on ECS, setup ECR for custom BE/FE docker builds, successfully deployed via compose, fix backend connection on prod,..",0 days 08:05:25,8.090277777777779,247,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Employee Intro Gateway, Sahil Slack, ..",0 days 00:28:21,0.4725,248,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),#596 PR review,0 days 00:04:00,0.0666666666666666,249,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Email + Research,0 days 00:06:18,0.105,250,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Streamer correspondence,..",0 days 00:19:13,0.3202777777777778,251,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Gateway Tooltip debugging P2P, ..",0 days 00:47:20,0.7888888888888889,252,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Email correspondence, Slack (Curtis Workshop, ..), ..",0 days 00:07:53,0.1313888888888889,253,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, GH PM -> Gateway, ..",0 days 00:03:00,0.05,254,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Gateway issue resolved P2P, ..",0 days 00:12:28,0.2077777777777777,255,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Streamer correspondence, Slack, ..",0 days 00:12:00,0.2,256,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Sahil), Boba HybridCompute Workshop, FlashPit mockup fixes on feedback (SemiBold changes + sizes, sidenav bug, paddings, highlight text color, etc.), Discord Workshop Questions, fixing Frontend bugs, fixing production frontend issues (svgs, fonts, ..), Slack (Andy, Ocean -> Dota 2 Streamers), ..",0 days 06:32:00,6.533333333333333,257,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"PR review #570,",0 days 00:02:50,0.0472222222222222,258,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, Streamer correspondence, create backend Https configs (compose sec, nginx, etc.) & try to deploy on AWS / debugging, loadbalancer fixing, ..",0 days 07:27:00,7.45,259,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"streamer correspondence (Solaris community), ..",0 days 00:07:41,0.1280555555555555,260,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"#499 merge, Slack, ..",0 days 00:02:27,0.0408333333333333,261,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Sahil -> Redesign differences, FE-Dev, ..)",0 days 00:11:41,0.1947222222222222,262,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Fixed Security group, ..",0 days 00:04:59,0.0830555555555555,263,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Employee Gateway working setup, ..",0 days 00:50:03,0.8341666666666666,264,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Streamer correspondence, ..",0 days 00:17:50,0.2972222222222222,265,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"making web-app fully mobile responsive & matching mobile mockups & debugging (sidebar, fixed Admin & Format section, tournament page & components, mobile done except modal, modal mobile fixed, ..), PR review #566 & #568, notifications/toasts to mockup start,..",0 days 08:38:00,8.633333333333333,266,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Updating docs (Turing multivalue, complex types, ..) Start, ..",0 days 00:21:15,0.3541666666666667,267,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"PR review #552,",0 days 00:02:53,0.0480555555555555,268,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Flashpit, Curtis, ..), replaced Mongo with PostgreSQL (Docker, rewriting Backend code & debugging), CJ CommunityGaming, completed confirmation/deny flow on FE&BE,..",0 days 06:37:00,6.616666666666666,269,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, ..",0 days 00:02:11,0.0363888888888888,270,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"All-hands meeting, Weekly Dev Meeting, organizational, Slack (Yoonhee -> mockup discussions / approaches, ..), minor bug fixing Frontend, ..",0 days 03:37:34,3.6261111111111113,271,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Ino, Sahil, Yoonhee, Julien, Rupert), PM Mockups Gateway, Deployment backend flashpit AWS, DNS & https debugging, trying AWS template files natively, fixed mapping element non-empty alphanumerics issue,  fixed subnet conflicts, build key issue, env-file param, dependent containers debug, ..",0 days 05:03:51,5.064166666666667,272,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, Yoonhee Videos/Pictures of current Frontend, PM,..",0 days 00:15:06,0.2516666666666666,273,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"PM Gateway (got Figma), Slack (Sahil, read-up, Yoonhee, ..), ..",0 days 00:11:52,0.1977777777777777,274,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Rippling Setup,0 days 00:22:00,0.3666666666666666,275,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Ino), ..",0 days 00:02:24,0.04,276,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Stanford FollowUp,0 days 00:03:20,0.0555555555555555,277,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Gateway David P2P, ..",0 days 00:34:21,0.5725,278,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, Updated Docs for TuringTxV2 support, tauByte verifiability HC, ..",0 days 01:12:00,1.2,279,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, New Mockup Feedback implementation (fixed slots, increased margin for modal, fixed responsive spacing, fixed format alignment, fixed modal final popup styling, fixed header & other font sizes on all screens, inner page position, fixed verify inner button in modal, fix notification location,  modal content alignment, joined btn mobile fixes, and other mockup feedback, ..), added tournament free alert, streamer correspondence, ..",0 days 05:06:53,5.114722222222222,280,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Flashpit update, Andy, ..), ..",0 days 00:07:06,0.1183333333333333,281,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Yoonhee, ..)",0 days 00:02:39,0.0441666666666666,282,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Gateway PM, Slack, ..",0 days 00:05:11,0.0863888888888888,283,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Weekly Dev Meeting, Infura outreach, Streamer correspondence, ..",0 days 01:10:34,1.176111111111111,284,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, Gateway PM",0 days 00:04:55,0.0819444444444444,285,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, Streamer correspondence, AWS volume mount (EFS) debugging (Securitygroups, mount via IP/DNS, ..), EFS File manager, Weekly Dev Meeting, trying alternative approach (using conf, html etc. directly in custom image), mount already exists issue, Rupert call for https, ..",0 days 09:40:55,9.681944444444444,286,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack, Gateway Employee, ..",0 days 00:02:33,0.0425,287,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Streamer correspondence (LinkedIn, Instagram,..)",0 days 00:14:00,0.2333333333333333,288,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Curtis, HR)",0 days 00:03:00,0.05,289,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Genevive, Ino)",0 days 00:02:52,0.0477777777777777,290,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Workshop preparation, ..",0 days 01:43:42,1.7283333333333333,291,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Slack (Genevive),0 days 00:02:51,0.0475,292,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Finish #563, Chris setup Gateway (VS, Python, dependencies, etc), #499 update, Slack, .. ",0 days 01:53:35,1.8930555555555555,293,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Weekly dev meeting & presentation, PM, minor bugs resolved, ..",0 days 01:23:28,1.3911111111111112,294,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (read up, Workshop prep)",0 days 00:09:00,0.15,295,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Compliance call, Stanford follow-up, Slack, ..",0 days 01:09:41,1.1613888888888888,296,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Bridging Testing P2P,0 days 00:13:00,0.2166666666666666,297,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Meetings,,data call,0 days 00:40:00,0.67,629,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,(Without client),"Streamer communication, Slack (Ino, etc.), ..",0 days 00:13:00,0.2166666666666666,298,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack & Email correspondence -> Stanford NFT view, ..",0 days 00:06:02,0.1005555555555555,299,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"LightMode Issue Gateway start, ..",0 days 00:31:00,0.5166666666666667,300,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"EMail correspondence (Solaris, Winnie), Slack (Curtis, Rupert, Alan, ..), Streamer correspondence, AWS check (no services deployed, ..), added services to taskdef, fixed target group, fixed ecr invalid image name, missing perm for ECR (resolved), malformed policy, env variables not available in containers, depends on fix to fix db connect, db crashes, using native postgresql db (works, but not reachable from BE - fixed), fix security group db, fixed BE not reachable, adding https to BE,  url too long for certificate, ..",0 days 07:48:47,7.813055555555556,301,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Streamer correspondence (Moin email, Instagram, LinkedIn Sales navigator, ..), Slack (Ino->budget, read-up, Sahil), ..",0 days 00:19:53,0.3313888888888889,302,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Gian, Yoonhee, Sahil, Rob, ..), ..",0 days 00:13:21,0.2225,303,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"EFS Data upload/sync research & debugging, short DNS for lets-encrypt resolved, Streamer correspondence, efs volume debugging (mounting locally, efs-cli tools setup, security settings, ..), documentation..",0 days 04:37:59,4.633055555555556,304,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Ino, Rob, ..) -> React Gateway",0 days 00:09:00,0.15,305,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Contract Michelle, Slack, ..",0 days 00:16:28,0.2744444444444444,306,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Gateway quick review,0 days 00:03:00,0.05,307,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Chris Setup/Intro, David PM, FlashPit minor bug fixes",0 days 00:51:09,0.8525,308,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Sahil, ..), Dev Call, ..",0 days 00:18:41,0.3113888888888889,309,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Sahil, David, Gian, Yoonhee), AWS Boba cleanup, AWS Enya Products setup (aws cli, docker context, ECR repositories,..), loadbalancer port debugging, Streamer correspondence, aws logs driver + debugging logs not logged,  BE host fix, Encode Workshop Presentation Enya/Boba, volume driver EFS, certbot debugging (SAN too long), ..",0 days 07:02:53,7.048055555555556,310,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Me,0 days 00:05:00,0.0833333333333333,311,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),#605 PR review,0 days 00:07:00,0.1166666666666666,312,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (David), ..",0 days 00:01:39,0.0275,313,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"PM Gateway, ..",0 days 00:16:06,0.2683333333333333,314,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Slack (Curtis, Ino)",0 days 00:05:00,0.0833333333333333,315,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Dota 2 Streamer cold outreach (LinkedIn Sales Navigator), Slack (Yoonhee), Flashpit current version Screenrecording etc, ..",0 days 02:02:00,2.033333333333333,316,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"CJ Communitygaming Call, Slack (Yoonhee, Ino, Rupert, ..), Rupert Deployment, ..",0 days 01:03:01,1.050277777777778,317,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"Streamer cold outreach & Follow-Ups (Moin, Fixxer, ..), ..",0 days 00:19:09,0.3191666666666666,318,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"PM (Sahil, Telegram, Organizational, ..), ..",0 days 00:09:21,0.1558333333333333,319,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,,,0 days 02:23:00,2.38,353,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,(Without client),"Slack (Sahil, Michelle, ..), Email correspondence (Ino), Https Compose Flashpit & debugging, Streamer correspondence (Solaris direct outreach), ..",0 days 01:30:32,1.508888888888889,320,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),#589 review,0 days 00:05:08,0.0855555555555555,321,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),Slack,0 days 00:05:58,0.0994444444444444,322,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,(Without client),"refresh #499, ..",0 days 00:02:31,0.0419444444444444,323,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Internal projects,(Without client),"Lohnzettel automation, ..",0 days 00:12:50,0.2138888888888888,324,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Marketing,(Without client),podcast,0 days 01:34:59,1.5830555555555557,329,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Marketing,(Without client),"shorts, etc.",0 days 00:29:06,0.485,330,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Marketing,(Without client),linkedin,0 days 00:03:45,0.0625,331,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Marketing,(Without client),"Lito NFTBros Podcast & preparation, E-Mail correspondence (tokenforge), ..",0 days 00:07:06,0.1183333333333333,332,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Marketing,(Without client),"Web2/3 Agentur workshop prep such as reg form, ..",0 days 00:44:54,0.7483333333333333,333,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Marketing,(Without client),"Shorts NFT Bros, Agentur Workshop,",0 days 01:25:00,1.4166666666666667,334,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Quivr,(Without client),"PolygonID research, ..",0 days 01:46:58,1.7827777777777778,335,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Quivr,(Without client),"weekly meeting, ..",0 days 00:37:38,0.6272222222222222,336,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Quivr,(Without client),"Meetings, ..",0 days 00:50:46,0.8461111111111111,337,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Quivr,(Without client),"Twitter meeting, ..",0 days 01:00:00,1.0,338,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Quivr,(Without client),Meeting,0 days 00:18:40,0.3111111111111111,339,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Quivr,(Without client),"Twitter/Steam meeting, ..",0 days 01:01:55,1.0319444444444446,340,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Quivr,(Without client),"Meeting, ..",0 days 00:39:36,0.66,341,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Sales,(Without client),"Mark Grech, ..",0 days 00:02:57,0.0491666666666666,342,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Sales,(Without client),Mark,0 days 00:00:59,0.0163888888888888,343,"[2023-02-01, 2023-03-01)",Kyle Reynolds,Februar
+Boba,,"Align design to lightmode (History, DAO ) + Bugfixes (Logo) + PR created",0 days 05:42:00,5.7,344,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,Working on design feedback,0 days 03:22:48,3.38,345,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,"fixed the PR issue (user prompt), solved merge conflict, prepared for push",0 days 03:03:04,3.05,346,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,"Align design to lightmode (Bobabridge, Wallet) + some fixes for darkmode",0 days 01:42:51,1.71,347,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,"created issues, some fixes",0 days 02:58:11,2.97,348,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,Implementation of Yoonhee's design feedback,0 days 04:27:20,4.46,349,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,Working on design feedback and some issues,0 days 01:17:52,1.3,350,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,"Align design to lightmode (Header, Footer)",0 days 04:51:14,4.85,351,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,Align design to lightmode (Header ),0 days 04:29:43,4.5,352,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,"Some fixes, lightmode design alignment",0 days 04:03:55,4.07,354,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,fixed some bugs/change requests,0 days 00:58:51,0.98,355,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+CryptoApi,,Mockup,0 days 09:10:17,9.17,356,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+CryptoApi,,"Meeting, Mockup",0 days 01:31:14,1.52,357,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+CryptoApi,,Frontend implementation,1 days 00:57:03,24.95,358,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+CryptoApi,,Meeting + Frontend implementation,0 days 02:00:25,2.01,359,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+CryptoApi,,"Meeting, Mockup, Start of FE implementation",0 days 02:17:53,2.3,360,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+General,,Wavect internal stuff (Team page),0 days 07:00:12,7.0,361,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+General,,,0 days 00:42:21,0.71,362,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+General,,Meeting + some intern stuff,0 days 02:10:22,2.17,363,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+General,,Meeting,0 days 03:00:55,3.02,364,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+General,,Generall stuff,0 days 00:54:39,0.91,365,"[2023-03-01, 2023-04-01)",Daniel Harrison,März
+Boba,,Find Streamers,0 days 04:07:10,4.12,366,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Boba,,Boba: Changes + PR,0 days 00:08:42,0.14,367,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Boba,,Streamers outreach,0 days 00:28:00,0.47,368,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Boba,,Boba Setup,0 days 00:47:32,0.79,369,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+CryptoApi,,Updated the nestjs project to current documentation standard,0 days 01:00:00,1.0,370,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+CryptoApi,,Advising the Guys,0 days 03:29:48,3.5,372,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+CryptoApi,,"Bugfixing, advising",0 days 04:59:00,4.98,373,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+CryptoApi,,"Kevin CryptoAPI, general stuff",0 days 03:30:00,3.5,374,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+FTWDao,,Checkup Call & further proceedings,0 days 00:33:32,0.56,375,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+FTWDao,,FTW link addr changed,0 days 00:10:00,0.17,376,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+FTWDao,,FTW Blogpost change; image size; Deployment,0 days 00:38:00,0.63,377,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,DebtRay Checkup,0 days 00:45:00,0.75,378,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,DebtRay sonstiges,0 days 00:27:00,0.45,379,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Setup OneUp,0 days 01:50:04,1.83,380,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Products Page Development,0 days 00:19:33,0.33,381,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,How to negotiate read,0 days 02:15:00,2.25,382,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Gnosis Multi Signature,0 days 00:13:00,0.22,383,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Chris Kevin WavectNFT,0 days 06:04:18,6.07,384,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Clockify Auto Import,0 days 02:53:45,2.9,385,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Audit report,0 days 01:10:00,1.17,386,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,web3 security for woman,0 days 01:15:00,1.25,387,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,MS Clockify,0 days 03:30:56,3.52,388,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Research: Sales Strategies,0 days 01:15:00,1.25,389,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Hackathon,0 days 12:00:00,12.0,390,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Research: Funded Companies,0 days 01:20:12,1.34,391,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Idea for DataCraft,0 days 01:08:23,1.14,392,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,"Negotiation book, gather knowledge on understanding people",0 days 02:02:00,2.03,393,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Getting information on how to negotiate and sell,0 days 01:30:00,1.5,394,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,DebtRay: Check Calculationparams,0 days 02:49:14,2.82,395,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Chris Kevin NFT,0 days 12:41:32,12.69,396,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,"Everything, All",0 days 06:21:39,6.36,397,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Matthias API,0 days 01:26:57,1.45,398,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,DebtRay Notar,0 days 00:45:00,0.75,399,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,"Sonstiges, smaller tasks",0 days 00:30:00,0.5,400,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,MS Quivr Checkup; Next Project: PR discussion,0 days 00:30:00,0.5,401,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,Card Game Backside,0 days 00:51:00,0.85,402,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+General,,"Mat + Dav Review, Help",0 days 01:00:00,1.0,403,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,checked audit documents,0 days 00:32:02,0.53,404,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,ZK Mina,0 days 02:00:00,2.0,405,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,Amazon Seller Account,0 days 00:50:00,0.83,407,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,Card game,0 days 08:30:00,8.5,408,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,Clicky Check Website wavect.io,0 days 03:24:59,3.42,409,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,Kevin Chris Product Day (Kartenspiel; discussed all open Jira tickets about products),0 days 04:03:01,4.05,410,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,Card Game,0 days 05:20:00,5.33,411,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,Pricing Page,0 days 00:51:35,0.86,412,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,Card Game Chris Kevin,0 days 05:11:15,5.19,413,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,Amazon Selling,0 days 00:23:00,0.38,414,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Internal Projects,,SGF Meeting,0 days 02:12:35,2.21,415,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Marketing,,Security Course,0 days 03:00:00,3.0,416,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Marketing,,Preparation Women Course,0 days 02:00:00,2.0,417,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Meetings,,"Mat + Dav Review, Help",0 days 00:56:00,0.93,418,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Meetings,,Meeting Matthias: Review Twitter; fix bugs,0 days 00:40:00,0.67,419,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Meetings,,Meeting: 10 AM Daily,0 days 02:48:44,2.81,420,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Meetings,,Meeting: Chris + Kevin Daily,0 days 05:09:51,5.16,421,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr Canvas.net / Steam,0 days 05:27:51,5.46,422,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr Canvas integration,0 days 04:35:15,4.59,423,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,[DEV push microservice; check ts-backend for changes,0 days 00:59:21,0.99,424,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr,0 days 05:06:16,5.1,425,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr: Spotify tests,0 days 03:57:32,3.96,426,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Meeting with Vin,0 days 00:15:00,0.25,427,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr check current algorithm,0 days 00:43:00,0.72,428,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,[DEV] Twitter Refresh Token fix; Microservice first step,0 days 08:48:59,8.82,429,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr: Deployment Issues / Lookup,0 days 02:20:00,2.33,430,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr Canvas.net,0 days 00:42:00,0.7,431,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,"Quivr Check, Mat, Ray, Twitter and Spotify",0 days 02:35:40,2.59,432,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr: Check Steam,0 days 04:46:11,4.77,433,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr: Spotify generation,0 days 01:37:00,1.62,434,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Qvr Call and debug,0 days 01:21:00,1.35,435,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,MS Call,0 days 00:10:00,0.17,436,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Twitter Bug,0 days 01:41:56,1.7,437,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr Canvas.net call and email further,0 days 00:45:00,0.75,438,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr Checkup with Matthias; PR created,0 days 00:29:28,0.49,439,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr Bugfixing; Checking DB tables; uniqueness,0 days 02:01:56,2.03,440,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr Check,0 days 00:20:00,0.33,441,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Chris Kevin AWS Check,0 days 01:55:37,1.93,442,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Quivr SQL script in ts-backend; last fixes in ms-data; looking good,0 days 00:15:13,0.25,443,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Quivr,,Check MS Changes in ms-data and ts-backend; test twitter aggregation,0 days 09:10:49,9.18,444,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Sales,,Cold Outreach,0 days 01:19:42,1.33,445,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Sales,,Sales Templates,0 days 00:30:00,0.5,446,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Sales,,Sponsoring outreach,0 days 00:24:46,0.41,447,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Sales,,Sales Outreach,0 days 01:37:00,1.62,448,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Sales,,"Incert Workshop Talk, further communication towards sommer",0 days 00:45:00,0.75,449,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Sales,,Negotiation book,0 days 01:40:00,1.67,450,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Unuslabs,,VVS Callup with Harrison,0 days 01:00:00,1.0,451,"[2023-03-01, 2023-04-01)",Caroline Johnson,März
+Boba,,"Slack, Flashpit Report update, ..",0 days 00:05:03,0.08,495,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+CryptoApi,,BE/Api-Forwarder add User Entity and CRUD,0 days 03:30:00,3.5,452,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,CryptoWrapper,0 days 02:40:00,2.67,453,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,CryptoWrapper Forwarder,0 days 12:50:00,12.83,454,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,CryptoWrapper Models,0 days 02:50:00,2.83,455,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,API CryptoWrapper ChatGPT,0 days 04:50:00,4.83,456,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,API CryptoWrapper,0 days 02:45:00,2.75,457,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,Implement Api Forwarder,0 days 03:00:00,3.0,458,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,"Daily, API CryptoWrapper ChatGPT Cost Calculation",0 days 02:00:00,2.0,459,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,API CryptoWrapperNestJS,0 days 02:30:00,2.5,460,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,Daily + BE/Api-Forwarder,0 days 07:00:00,7.0,461,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,"Daily, API CryptoWrapperNestJS",0 days 03:00:00,3.0,462,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+CryptoApi,,"Implement Api Forwarder, NestJS",0 days 04:00:00,4.0,463,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+General,,"Create full stack example template with all technologies that have been prepared, Daily",0 days 05:45:00,5.75,464,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+General,,Create full stack example template with all technologies that have been prepared,0 days 03:00:00,3.0,465,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+General,,"Confluence Resources, Daily, API CryptoWrapper getting started",0 days 03:45:00,3.75,466,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+General,,Daily,0 days 01:08:00,1.13,467,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+Quivr,,Twitter aggregator Session with Chritof,0 days 05:05:00,5.08,468,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+Quivr,,Twitter Badge crawler and Database Adjustments,0 days 02:00:00,2.0,469,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+Quivr,,Twitter Badge crawler,0 days 01:20:00,1.33,470,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+Quivr,,Twitter final touches,0 days 02:00:00,2.0,471,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+Quivr,,"Implement Twitter Aggregator Changes in MS-Data, Write first Badge crawler",0 days 04:10:00,4.17,472,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+Quivr,,Twitter database migration,0 days 03:45:00,3.75,473,"[2023-03-01, 2023-04-01)",Maxwell Simpson,März
+Boba,,"streamer correspondence, call prep & actual streamer call, Slack, ..",0 days 00:40:51,0.68,474,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack, Stanford followup, followup streamer spokeperson, follow up streamer connector (LinkedIn), etc. ..",0 days 00:42:00,0.7,475,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"meetings, slack",0 days 00:58:01,0.97,476,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"bitscrunch prep & meeting, ..",0 days 00:55:43,0.93,673,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,devops,0 days 00:35:52,0.6,674,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Update configs for full stack, rebuild & restart with https on AWS, targetgroup no balancer issue, backend https works, Slack (Ino, Sahil, David), Streamer correspondence, Targetgroup register/deregister infinite loop, Gateway PR review, fix certificate null, frontend https works, frontend -> backend connection fixing (works), Weekly dev call, fixing dbui port, making dbui accessible, refactoring, Streamer outreach (Solaris),",0 days 07:22:33,7.38,477,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"#681 review, Slack, Streamer replies..",0 days 00:45:33,0.76,478,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Streamer follow up, Stripe integration & debugging (did with their native lib instead of react then), stripe testing, UI flow adaptation (modal -> e.g. payment process etc.), Slack, ..",0 days 06:57:14,6.95,479,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,Slack,0 days 00:11:57,0.2,481,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Review #660, Slack, zkRollup native, ..",0 days 00:20:00,0.33,482,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack (Yoonhee, Ino), LinkedIn (Streamer contact correspondence, ), Tenderly, PR review #635, PM gateway, Flashpit Mockup feedback #3 implementation (fixed organized/admin sections, fixed navbar padding, fixed modal text sizes, desktop done, mobile alignment & formatting issues, fixed font family, fixed format section break word on mobile, fixed modal on mobile last page not scrollable & height, fixed alert info), backend error for saving bids & players (bug fixed), redeployment of full stack & DB reset, added http -> https redirect, ..",0 days 05:35:41,5.59,483,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"PM gateway, Gateway select review, PR request #531, streamer correspondence (budget, etc.), add endpoints for tournament slots (flashpit), retesting confirmation/deny flow (all states) + lbl update, redeployment, add endpoint for tournament data & replace data hydration in frontend, & redeployment, fix flashpit no tournament data bug, setup DB tournament in prod, ..",0 days 06:19:43,6.33,484,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Mass emailing streamers based on lists obtained from Google, followups, ..",0 days 03:20:00,3.33,485,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"meeting alan/violet, Slack, ..",0 days 01:04:59,1.08,486,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"slack, all-hands meeting, PM, streamer outreach & follow ups, ..",0 days 03:05:52,3.1,487,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Gateway PM, ..",0 days 00:43:31,0.73,488,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"PM gateway, ..",0 days 00:07:31,0.13,489,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack, Streamer proposal based on new feedback by Alan, Streamer follow ups, more streamer outreach, package suggestions for streamers, ..",0 days 03:21:00,3.35,490,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack (product, ..), Streamer correspondence, follow-ups, minor bug fixes, ..",0 days 03:03:42,3.06,491,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack (Flashpit, Sahil, Yoonhee, ..), PR review #634, ..",0 days 00:11:42,0.2,492,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"PM Flashpit, Slack, Mockup, ..",0 days 00:05:16,0.09,493,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Meeting (weekly), Virtualness, Slack, E-Mail correspondence, Flashpit FE fixes & stripe, streamer outreach, ..",0 days 05:46:39,5.78,494,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,Slack (gateway yoonhee),0 days 00:02:43,0.05,496,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"PR review #616, Slack, ..",0 days 00:04:00,0.07,497,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Erigon Disc -> Jason, Slack, Minor bug fixing Flashpit, ..",0 days 00:50:22,0.84,498,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"streamer outreach & correspondence, ..",0 days 02:32:50,2.55,499,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"PM Gateway, ..",0 days 00:06:34,0.11,500,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Flashpit evaluation call, ..",0 days 01:00:03,1.0,501,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Email correspondence, Slack, Flashpit (Web3: SmartContract & tests first draft, ..), review #661, review #659, weekly dev meeting, ...",0 days 07:00:03,7.0,502,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack,..",0 days 00:04:11,0.07,503,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,Pm Gateway ,0 days 00:02:00,0.03,504,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack (Streamer budget, ..)",0 days 00:04:30,0.07,505,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"meeting plinko, ..",0 days 00:44:50,0.75,506,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"streamer correspondence, Slack (James, Ocean, Yoonhee), Flashpit PM, ..",0 days 00:16:56,0.28,507,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack (Data Analytics, Product, Alan, Flashpit, ..), ..",0 days 00:32:37,0.54,508,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,meeting,0 days 01:05:46,1.1,509,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack, Setup DNS for Flashpit Backend & Frontend (works), ..",0 days 00:29:09,0.49,510,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,eric,0 days 00:42:33,0.71,630,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack (budget, read up, streamer correspondence, ..)",0 days 00:14:16,0.24,511,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Flashpit report, Slack, Streamer correspondence, ..",0 days 02:20:02,2.33,512,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,Slack (Alan),0 days 00:02:00,0.03,513,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,," Pm Gateway, Slack, etc ",0 days 00:07:08,0.12,514,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"weekly dev call, Slack (Product, Yoonhee, ..), Streamer call prep & actual call, streamer outreach, ..",0 days 02:22:13,2.37,515,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"personalized streamer outreach (KheZu, AmirPhanthom, 23savage/Ulti-agency, Raeyei, PeterPPA, ..), Slack, Gateway PM (#633, etc.), review #631, joining streamer communities to outreach, ..",0 days 04:37:02,4.62,516,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Streamer search & Slack, instreamly, LinkedIn followups, trying different platforms that connect streamers<>brands, outreach (sending highly personalized sponsorship requests to Pyrionflax, Team Liquid, carn, rxnexus, y0nd, iceiceice,CDNThe3rd, Rayuur, Steel_tv, FanHOTS, lukiluki, xcaliburye), ..",0 days 03:05:02,3.08,517,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,Flashpit Update,0 days 00:20:00,0.33,518,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,gateway pr & PM,0 days 00:09:14,0.15,519,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Github, Slack, review #656, review #625, review #655, resolve conflicts #653,",0 days 00:11:21,0.19,520,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack, tests debugging for AbortTournament & RevokeParticipation, adding a lot of unit tests (such as for draw, winner check, ..), mocking TuringHelper, adapting challenge.sol, gas optimization, Alan meeting, Streamer correspondence & meeting, ..",0 days 07:36:00,7.6,521,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"PR review #624, Slack, ..",0 days 00:01:28,0.02,522,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Smart contract (revoke, abort tournament etc)",0 days 02:38:00,2.63,523,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack (readup, Gian)",0 days 00:06:00,0.1,524,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Follow-Up to all streamers, reaching out to personal network for streamers, Slack, Sepolia setup, ..",0 days 01:33:00,1.55,525,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"PR review #619, review #483, Slack, Contract/Legal, Steam Username debugging (Yoonhee example), fixed steamID64 precision error during convertion, production redeployment, ..",0 days 03:22:18,3.37,526,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack (Alan budget follow up), ..",0 days 00:03:07,0.05,527,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack, Streamer correspondence (Emails), streamer outreach, Gateway PM, PR review #630, review #647, ..",0 days 01:23:01,1.38,528,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"budget request created, streamer correspondence, slack, ..",0 days 00:18:42,0.31,529,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack, Alan etc",0 days 00:06:16,0.1,530,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,slack,0 days 00:02:15,0.04,531,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,streamer follow up,0 days 00:06:51,0.11,532,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"review #620, Slack, ..",0 days 00:05:43,0.1,533,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"flashpit web3 integration (rainbowkit setup, connect wallet btn desktop, custom network (boba), custom mobile connect btn, etc), smart contract project setup & first smart contract draft, first unit tests smart contract, ..",0 days 06:49:00,6.82,534,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+CryptoApi,,docker,0 days 00:58:45,0.98,535,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+CryptoApi,,"devops, ..",0 days 00:47:00,0.78,536,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+CryptoApi,,sig debug,0 days 02:44:26,2.74,537,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+CryptoApi,,signature login,0 days 05:33:00,5.55,538,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+CryptoApi,,meeting chris,0 days 00:22:21,0.37,539,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+DebtRay,,refinitiv,0 days 01:01:14,1.02,540,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+DebtRay,,Vollmacht,0 days 00:10:18,0.17,541,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,"FTWDao organizational, ..",0 days 00:10:46,0.18,542,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,dr notar,0 days 00:02:11,0.04,543,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,quivr invoice,0 days 00:02:41,0.04,544,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,Buchhaltung (FTW),0 days 00:04:03,0.07,545,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,legal martin dionne,0 days 00:10:31,0.18,546,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,legal quivr,0 days 00:12:40,0.21,547,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,"Buchhaltung, ..",0 days 00:04:34,0.08,548,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,"organisatorisches, buchhaltung, ..",0 days 00:05:51,0.1,549,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,accounting,0 days 00:01:33,0.03,550,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,buchhaltung uva,0 days 00:04:58,0.08,551,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,taxes,0 days 00:01:28,0.02,552,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,"Buchhaltung FTW, bücher etc",0 days 00:19:00,0.32,553,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,travel prep,0 days 01:59:52,2.0,554,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,Binance KYC GmbH,0 days 00:12:08,0.2,555,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,Lohnverrechnung,0 days 00:20:00,0.33,556,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+General,,buchhaltung,0 days 00:24:18,0.41,557,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"research, ..",0 days 00:08:18,0.14,558,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"outreach tracking, ..",0 days 00:21:36,0.36,559,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,website force push,0 days 00:16:00,0.27,560,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,Audit Wavect NFT,0 days 00:06:19,0.11,561,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,api reselling research chatgpt,0 days 00:46:38,0.78,562,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,wavect nft,0 days 05:17:08,5.29,563,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,nft,0 days 00:01:09,0.02,564,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,card game: manufacturer,0 days 00:52:34,0.88,565,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"wavect nft, ..",0 days 06:01:10,6.02,566,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"card game, marketing chatgpt",0 days 00:07:20,0.12,567,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"Weekly Strategy Call, ..",0 days 01:20:55,1.35,568,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,card game,0 days 11:56:23,11.94,569,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"openai outreach, ..",0 days 00:03:31,0.06,570,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"documentation & prep for data analytics project, ..",0 days 01:10:48,1.18,571,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"Data gathering, dashboard, etc.",0 days 01:44:32,1.74,572,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+FTWDao,(Without client),"Landing Page Responsiveness, blog component",0 days 02:00:00,2.0,32,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),ButterCMS before-call membership checkup,0 days 00:35:57,0.5991666666666666,33,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Review Call with Isla - Prework FTW,0 days 01:28:57,1.4825,34,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Sefi Setup and calls,0 days 01:00:00,1.0,35,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),"LandingPage CMS Ready, Deployment, Sefika",0 days 06:00:00,6.0,36,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Landing Page Responsiveness,0 days 04:33:16,4.554444444444444,37,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),Landing / Membership design issues,0 days 02:21:30,2.3583333333333334,38,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+FTWDao,(Without client),"FTW, Blogpost",0 days 01:00:00,1.0,39,"[2023-01-01, 2023-02-01)",Caroline Johnson,Januar
+Internal projects,,website pm,0 days 00:10:00,0.17,573,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"user flow crypto api, wireframes, ..",0 days 00:51:20,0.86,574,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,website team page,0 days 01:30:00,1.5,575,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,Review mockups,0 days 00:09:41,0.16,576,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,mina,0 days 01:18:12,1.3,577,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,amazon fba,0 days 00:28:43,0.48,578,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"card game, ..",0 days 04:47:24,4.79,579,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"Kartenspiel, Meeting, etc.",0 days 04:20:00,4.33,580,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Internal projects,,"datacraft project specification, ..",0 days 00:21:03,0.35,581,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,web2 workshop etc.,0 days 00:46:00,0.77,582,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,podcast robert p.,0 days 02:00:00,2.0,583,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,workshop women,0 days 00:17:44,0.3,584,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,Social Media,0 days 00:59:00,0.98,585,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,failed posts,0 days 00:06:30,0.11,586,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"li msg,",0 days 01:51:58,1.87,587,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,short,0 days 00:17:46,0.3,588,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,nft bro short,0 days 00:29:00,0.48,589,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,podcast tony richard,0 days 01:01:00,1.02,590,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,prep,0 days 02:28:48,2.48,591,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"Content prep & scheduling, ..",0 days 04:38:10,4.64,592,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"short post, ..",0 days 00:18:25,0.31,593,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"Podcast, LinkedIn, ..",0 days 01:46:53,1.78,594,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,Linkedin,0 days 00:45:36,0.76,595,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"li comments, etc.",0 days 00:15:42,0.26,596,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,Linkedin messaging,0 days 00:09:37,0.16,597,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"Podcast Zack & Preparation, ..",0 days 01:14:38,1.24,598,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,li,0 days 00:29:36,0.49,599,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,linkedin post,0 days 00:21:37,0.36,600,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"optimize tiktok & linkedin, ..",0 days 04:10:15,4.17,601,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,nftbros short,0 days 00:19:58,0.33,602,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"women workshop, ..",0 days 00:17:57,0.3,603,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"li commenting, ..",0 days 00:10:15,0.17,604,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,li msg,0 days 00:21:10,0.35,605,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"li, zui, referralbooster, ..",0 days 00:53:09,0.89,606,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,women workshop,0 days 01:03:00,1.05,607,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,scheduling,0 days 00:37:31,0.63,608,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"Li msg, oneup",0 days 00:08:46,0.15,609,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"Li, ..",0 days 00:05:48,0.1,610,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,Li comments,0 days 00:10:00,0.17,611,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"LinkedIn, ..",0 days 00:16:40,0.28,612,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,li + post,0 days 00:34:47,0.58,613,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Boba,,"Slack, ..",0 days 00:08:14,0.14,480,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"W3Summit Panel & Prep, LinkedIn, ..",0 days 00:58:07,0.97,614,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,eip,0 days 00:01:27,0.02,615,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"Slide prep FH Kufstein, gast vorlesung, ..",0 days 01:03:08,1.05,616,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,"OneApp Chris, LinkedIn msg, ..",0 days 00:18:31,0.31,617,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Marketing,,women sec workshop,0 days 03:43:00,3.72,618,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+MartinDionne,,consulting,0 days 02:52:36,2.88,619,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,gofounder,0 days 00:57:11,0.95,620,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,internal meetings,0 days 00:39:00,0.65,621,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,"Daily meeting, ..",0 days 00:31:03,0.52,622,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,"zapier chris, chris call",0 days 01:24:41,1.41,623,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,"daily, ..",0 days 00:30:00,0.5,624,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,daily meetings,0 days 00:19:38,0.33,625,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,amazon reg seller chris,0 days 00:25:15,0.42,626,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,"pact meeting, ethersuite meeting, ..",0 days 00:14:13,0.24,627,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,data call merve,0 days 00:18:00,0.3,628,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,chris,0 days 01:00:26,1.01,631,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,Daily,0 days 01:19:25,1.32,632,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,pact,0 days 00:25:00,0.42,633,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,daily,0 days 03:27:15,3.45,634,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,matthias/chris api project,0 days 00:29:07,0.49,635,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,chris call clockify,0 days 00:28:47,0.48,636,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,"chris, ..",0 days 01:28:10,1.47,637,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,Dailys,0 days 00:26:00,0.43,638,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Meetings,,dailys,0 days 00:26:00,0.43,639,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"ci/cd pipeline, ..",0 days 00:25:32,0.43,640,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,ray call,0 days 00:44:22,0.74,641,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"ray call, ..",0 days 00:35:20,0.59,642,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"meetings, devops",0 days 02:22:55,2.38,643,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,Deployment ,0 days 01:41:00,1.68,644,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"ms data logs, ..",0 days 00:20:31,0.34,645,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,polygon call,0 days 00:23:00,0.38,646,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,product call,0 days 00:30:17,0.5,647,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"ray tokenomics, ..",0 days 00:34:17,0.57,648,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,devops,0 days 03:59:36,3.99,649,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,ci/cd,0 days 00:49:11,0.82,650,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,deployment,0 days 00:07:10,0.12,651,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"canva call, ..",0 days 00:26:19,0.44,652,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,meeting,0 days 00:34:26,0.57,653,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"meeting, ..",0 days 01:00:53,1.01,654,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,aws ms deploy,0 days 01:34:00,1.57,655,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"pipeline, ..",0 days 01:56:05,1.93,656,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Quivr,,"Weekly meeting, ..",0 days 00:27:20,0.46,657,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,book documentation,0 days 00:14:55,0.25,658,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"li, follow up, etc., ideal customer profile, ..",0 days 02:50:19,2.84,659,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,out reach,0 days 00:28:13,0.47,660,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,li,0 days 00:16:41,0.28,661,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,kids workshop matthias,0 days 00:03:05,0.05,662,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,li sales nav answer,0 days 00:02:32,0.04,663,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,henning,0 days 00:25:31,0.43,664,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"linkedin, followups",0 days 00:14:33,0.24,665,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,kids workshop nfbrands,0 days 00:08:11,0.14,666,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,gabriela,0 days 00:13:02,0.22,667,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"CTO application, ..",0 days 00:39:31,0.66,668,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,Call,0 days 00:10:27,0.17,669,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,NFBrands offer kids workshops,0 days 00:35:00,0.58,670,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"li, etc",0 days 01:13:48,1.23,671,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"li outreach, ftw dao, ..",0 days 00:46:55,0.78,675,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,confluence summary,0 days 00:50:08,0.84,676,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"discord, mail, li, ideal customer profile",0 days 02:59:48,3.0,677,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,documentation,0 days 00:34:16,0.57,678,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"stefan schmeizl, .. -> didnt appear",0 days 00:12:22,0.21,679,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,Li,0 days 00:15:36,0.26,680,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,"follow ups, ..",0 days 00:21:37,0.36,681,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,stefan,0 days 00:02:15,0.04,682,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,li outreach,0 days 01:34:00,1.57,683,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,Added Lead Qualifier on Calendly,0 days 00:23:00,0.38,684,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Sales,,meeting alexander k.,0 days 01:10:02,1.17,685,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Unuslabs,,"Call prep, Harrison Call, order confirmation",0 days 02:03:21,2.06,686,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
+Unuslabs,,order confirmation,0 days 00:20:00,0.33,687,"[2023-03-01, 2023-04-01)",Kyle Reynolds,März
