@@ -5,6 +5,8 @@ This code is a Flask application that processes data from a PostgreSQL database 
 It performs various data transformations and uses the OpenAI GPT-3.5 language model to generate responses based 
 on user prompts.
 
+// NOTE THAT THIS PROGRAMM SERVES ONLY FOR THE PURPOSE OF SHOWING THE CODE
+// The data corresponding to the database, openAI key and tables content were all changed due to security reasons
 
 Dependencies:
 
@@ -95,7 +97,7 @@ app = Flask(__name__)
 openai.api_key = os.getenv('OPENAI_API_KEY', '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')
 
 # Connection with the Database through the engine of the package sqlalchemy
-engine = create_engine('postgresql://grafana:secret@localhost:5432/grafana') 
+engine = create_engine('postgresql://grafana:secret@localhost:5433/grafana') 
 
 
 # Guidelines that will help build up the Requests that will be sent to ChatGPT
