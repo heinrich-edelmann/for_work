@@ -5,7 +5,7 @@ This code is a Flask application that processes data from a PostgreSQL database 
 
 The code imports several required libraries, including Flask, pandas, datetime, psycopg2, sqlalchemy, os, openai, time, schedule, and tenacity.
 
-The schedule_task() function is defined to schedule a task to run at 2:00 AM on the first day of every month. It uses the schedule library to set up the scheduling and the time library to add a delay between each check.
+The schedule_task() function is defined to schedule a task to run at 1:00 AM on the first day of every month. It uses the schedule library to set up the scheduling and the time library to add a delay between each check.
 
 The Flask application is created using Flask(__name__), which sets up the Flask instance and provides the necessary resources for templates and static files.
 
