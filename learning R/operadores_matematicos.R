@@ -1,38 +1,38 @@
 ##################################
-###   OPERADORES MATEMÁTICOS   ###
+###   OPERADORES MATEMaTICOS   ###
 ##################################
 
-# Soma   (linha de comentário)
+# Soma
 5 + 3
 
-# Subtração
+# Subtracao
 8 - 6
 
-# Multiplicação
+# Multiplicacao
 4 * 3
 
-# Divisão
+# Divisao
 20 / 5
 
-# Potenciação
+# Potenciao
 4 ** 2
 
 # ou
 
 4 ^ 2
 
-# Radiciação
+# Radiciacao
 
 # raiz quadrada
 sqrt (81)
 
 81**(1/2)
 
-# raiz cúbica
+# raiz cubica
 125**(1/3)
 27**(1/3)
 
-# Módulo
+# Modulo
 abs (-10)
 abs (10)
 
@@ -63,17 +63,17 @@ pi
 
 # pi radianos = 180 graus
 
-# Funções trigonométricas (radianos)
-sin(pi/6)  # pi/6 radianos é igual a 30 graus
+# Funcoes trigonometricas (radianos)
+sin(pi/6)  # pi/6 radianos ? igual a 30 graus
 asin(0.5)
 
-cos(pi/4)  # pi/4 radianos é igual a 45 graus
+cos(pi/4)  # pi/4 radianos ? igual a 45 graus
 acos(0.7071068)
 
 tan(pi/4)
 atan(1)
 
-# Notação científica
+# Notacao cientifica
 
 2e32 # (2x10^32)
 
