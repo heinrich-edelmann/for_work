@@ -36,7 +36,7 @@ sqrt (81)
 abs (-10)
 abs (10)
 
-# Fatorial
+# Fatorial (ex.: 3!)
 
 factorial(3)   # 3! = 3.2.1 = 6
 factorial(5)   # 5! = 5.4.3.2.1 = 120
@@ -49,12 +49,12 @@ log2(8)       # 2^3 = 8
 
 log10(1000)
 
-# Exponencial
-exp(1)       # e = 2,718281828...
-exp(2)
-exp(-2)
+# Exponencial (e → constante de euler → é um numero irracional)
+exp(1)       # e = 2,718281828...  → esse exponencial é a constante de euler elevado ao q esta entre parenteses
+exp(2)  # nesse caso seria ((2,718281828)^2) pois a constante de euler é 2,718281828.. 
+exp(-2) # aqui seria ((2,718281828)^-2)
 
-# Logaritmo natural
+# Logaritmo natural → é o logaritmo q tem como base a constante de euler e
 log(2.718281828)
 log(100)
 
@@ -88,3 +88,6 @@ atan(1)
 15e16 / 5e6
 
 getRversion()
+
+
+# as funcoes em R sao escritas como em python
