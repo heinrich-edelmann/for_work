@@ -1,18 +1,18 @@
 ###############################
-###   OBJETOS (VARIÁVEIS)   ###
+###   OBJETOS (VARIaVEIS)   ###
 ###############################
 
 m <- 4 * 7
 # ou
 m = 4 * 7
 
-print(m)
+print(m)   # bem parecido com python
 m
 
-# Não usar palavras reservadas:
+# Nao usar palavras reservadas:
 # break, else, for, function, IF, in, next, repeat, while, FALSE, Inf, 
 # NA, NaN, NULL,TRUE ...
-# Não colocar acentuações.
+# Nao colocar acentuacoes.
 
 
 in <- 3 + 4
@@ -26,24 +26,26 @@ diferenca
 a <- 2
 b <- 4
 c <- a * b
-c <- a**b
+f
 
 
-### TIPO BÁSICO DO OBJETO (MODO)
+### TIPO BASICO DO OBJETO (MODO)
 
-# numeric: numérico
-# integer: inteiro
-# complex: número complexo
-# character (string): caractere
-# logical (boolean): lógicos (True e False)
-# factor: categorias bem definidas. ex: gênero (masculino e feminino)
-#                                       estado civil(casado, solteiro, viúvo...)
+# numeric: numerico â†’ float
+# integer: inteiro  â†’ integer
+# complex: numero complexo
+# character (string): caractere  â†’ string
+# logical (boolean): logicos (True e False)  boolean
+# factor: categorias bem definidas. ex: genero (masculino e feminino)
+#                                       estado civil(casado, solteiro, viuvo...)
 #                                       ano (2019, 2020, 2021...)
 y = 2
 mode(y)
-class(y)
+class(y) # class() = mode() â†’ os 2 tem a msm funcao
 
 y <- as.integer(y)
+y = as.integer(y)
+
 y
 class(y)
 mode(y)
@@ -71,15 +73,15 @@ logica <- "TRUE"
 class(logica)
 
 
-genero <- c("masculino","feminino")
-genero
+genero <- c("masculino","feminino") # c() concatena, 
+genero                              
 class(genero)
 
 genero <- as.factor(genero)
 genero
 class(genero)
 
-### TIPO BÁSICO DO OBJETO (Comprimento)
+### TIPO BASICO DO OBJETO (Comprimento)
  
 length(genero)
 
