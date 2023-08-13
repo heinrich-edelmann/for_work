@@ -2,11 +2,11 @@
 ###   ESTRUTURA DOS DADOS - FATORES   ###
 #########################################
 
-# Sequência de valores, definidos por níveis, comumente expressa variáveis categóricas.
+# Sequencia de valores, definidos por niveis, comumente expressa variaveis categoricas.
 # Facilita quando se deseja saber a quantidade de cada categoria.
 
 # Vetor
-escolaridade <- c("fundamental", "médio", "superior", "médio", "superior", "fundamental")
+escolaridade <- c("fundamental", "medio", "superior", "medio", "superior", "fundamental")
 print (escolaridade)
 
 
@@ -26,9 +26,10 @@ summary (escolaridade)
 summary (escolaridade_fator)
 
 
-table(escolaridade)
+table(escolaridade) # the table() counts the occurences in the vector taken as parameter
+                  #(in this case the vector escolaridade), and shows them, kinda like a pivot table
 
-# Tensão elétrica em residências (110V, 220V)
+# Tensao eletrica em residencias (110V, 220V)
 
 tensao_casas <- c(110, 220, 110, 110, 110, 110, 220)
 print(tensao_casas)
