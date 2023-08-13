@@ -104,6 +104,9 @@ soma_colunas
 matriz7 = matrix(c("segunda","terca","quarta","quinta"),nrow=2,ncol=2,byrow=FALSE)
 matriz7
 
+matriz7 = matrix(c("segunda","terca","quarta","quinta"),nrow=2,ncol=2,byrow=TRUE)
+matriz7
+
 
 
 
