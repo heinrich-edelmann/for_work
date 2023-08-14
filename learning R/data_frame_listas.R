@@ -4,18 +4,18 @@
 
 ### DATA FRAME ###
 
-# É uma tabela de dados onde cada linha representa um registro e as colunas
-# representam os atributos ou variáveis.
-# Pode ter números e caracteres juntos (essa é a principal diferença com relação à matriz).
+# ? uma tabela de dados onde cada linha representa um registro e as colunas
+# representam os atributos ou vari?veis.
+# Pode ter n?meros e caracteres juntos (essa ? a principal diferen?a com rela??o ? matriz).
 
 mes_numero <- c(1,2,3,4,5,6,7,8,9,10,11,12)
-mes_nome <- c("janeiro","fevereiro","março","abril","maio","junho","julho",
+mes_nome <- c("janeiro","fevereiro","mar?o","abril","maio","junho","julho",
             "agosto","setembro","outubro","novembro","dezembro")
 ano <- c(2021,2021,2021,2021,2021,2021,2021,2021,2021,2021,2021,2021)
 data.frame(mes_numero,mes_nome,ano)
 
-data_frame <- data.frame(mes_numero,mes_nome,ano)
-View(data_frame)
+df <- data.frame(mes_numero,mes_nome,ano)
+View(df) # view() Ã© pra olhar dados mais complexos como dataframes
 
 
 # Data Frames pertencentes ao R
@@ -35,10 +35,10 @@ library(help = "datasets")
 df3 = iris
 View(df3)
 
-nrow(df3)
-ncol(df3)
-dim(df3)
-summary(df3)
+nrow(df3) # numero total de linhas
+ncol(df3) # numero total de colunas
+dim(df3) # dimensoes
+summary(df3) # estatistica descritiva
 
 
 ### LISTAS ###
@@ -47,7 +47,10 @@ summary(df3)
 
 nome <- c("Luciano","Pedro","Joyce", "Maria")
 idade <- c(46, 38, 27, 29)
-curso <- c("Estatística", "Linguagem R", "Redes Neurais", "Python")
+#
+idade <- as.integer(idade) #testezinho basico pra ver se da pra mudar o tipo de todos os elementos q estao em uma variavel
+#
+curso <- c("Estatistica", "Linguagem R", "Redes Neurais", "Python")
 lista <- list(nome, idade, curso)
 print(lista)
 
@@ -57,7 +60,7 @@ lista[1]
 # nomeando termos da lista
 lista2 <- list(nome = c("Luciano","Pedro","Joyce", "Maria"),
                idade = c(46, 38, 27, 29),
-               curso = c("Estatística","Linguagem R","Redes Neurais","Python"))
+               curso = c("Estat?stica","Linguagem R","Redes Neurais","Python"))
 lista2
 
 lista2[3]
