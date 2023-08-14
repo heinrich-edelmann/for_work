@@ -84,7 +84,7 @@ from tenacity import ( retry, stop_after_attempt, wait_random_exponential)  # fo
 #the function will never be activated for it will never verify the day and time at 01:00, but at 01:05.
 def schedule_task():
     today = datetime.date.today()
-    if today.day == 6:
+    if today.day == 1:
         schedule.every().day.at("01:00").do(process_data) # verify if the system date is the 1th at 1AM, if it is the process_data function will be activated
     while True: # infinite loop, 
         schedule.run_pending()
