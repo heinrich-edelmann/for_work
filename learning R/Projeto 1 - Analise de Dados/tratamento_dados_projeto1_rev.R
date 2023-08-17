@@ -4,9 +4,13 @@
 
 # BAIXAR PACOTES, CASO ELES AINDA N?O ESTEJAM BAIXADOS
 if(!require(dplyr)) install.packages("dplyr") 
+if(!require(lubridate)) install.packages("lubridate") 
+
+
 
 # CARREGAR PACOTES
 library(dplyr)
+library(lubridate)
 
 # BUSCAR DIRETÓRIO (PASTA COM OS ARQUIVOS)
 setwd("C:/Users/hhhme/Documents/GitHub/for_work/learning R/Projeto 1 - Analise de Dados/dados-covid-sp-master/data")
@@ -109,19 +113,16 @@ covid_sp_alterado2$semana_epidem[covid_sp_alterado2$semana_epidem == 54] <- 2021
 
 # df_that_will_be_changed$coluna[referencia] <- new_value
 
-covid_sp_alterado2$semana_epidem[covid_sp_alterado2$data >= '01/01/2021' &
-                                   covid_sp_alterado2$data <= '07/01/2021'  ] <- 54
+covid_sp_alterado2$semana_epidem[covid_sp_alterado2$data >= '01-01-2021' &
+                                   covid_sp_alterado2$data <= '07-01-2021'  ] <- 54
 
 # df$coluna_cm_valor_a_ser_replaced[df$outra_coluna >= valor_nessa_coluna &
 #                                    df$outra_coluna >= valor_nessa_coluna] <- new_value
 
 # ↓variavel q sera alterada  ↓coluna onde a alteracao ira ocorrer
-covid_sp_alterado2$semana_epidem[covid_sp_alterado2$data >= '08/01/2021' &
-                                    covid_sp_alterado2$data <= '14/01/2021'  ] <- 55
+covid_sp_alterado2$semana_epidem[covid_sp_alterado2$data >= '08-01-2021' &
+                                    covid_sp_alterado2$data <= '14-01-2021'  ] <- 55
 #                                          [ referencia ]                         ↑ new value
-
-covid_sp_alterado2$semana_epidem[covid_sp_alterado2$data >= '15/01/2021' &
-                                   covid_sp_alterado2$data <= '21/01/2021'  ] <- 56
 
 
 
@@ -143,9 +144,11 @@ glimpse(covid_sp_alterado2)
 covid_sp_alterado2$semana_epidem <- as.integer(covid_sp_alterado2$semana_epidem)
 glimpse(covid_sp_alterado2)
 
-covid_sp_alterado2$data <- as.Date(covid_sp_alterado2$data, format ='%d/%m/%Y')
+covid_sp_alterado2$data <- as.Date(covid_sp_alterado2$data, format ='%Y/%m/%d')
 glimpse(covid_sp_alterado2)
 
+covid_sp_alterado2 <- covid_sp_alterado2 %>% mutate(data = format(data, "%d/%m/%Y"))
+# ↑↑↑ alterar o jeito q a data foi colocada
 
 # Alterar várias variáveis de uma única vez
 #covid_sp_alterado2[1:17] <- lapply(covid_sp_alterado2[1:17], as.character)
@@ -153,8 +156,9 @@ glimpse(covid_sp_alterado2)
 
 
 # Criação de colunas
-covid_sp_alterado2["idoso(%)"]<-100*covid_sp_alterado2$pop_60/covid_sp_alterado2$pop
+covid_sp_alterado2["idoso(%)"]<-(covid_sp_alterado2$pop_60/covid_sp_alterado2$pop)*100
 View(covid_sp_alterado2)
+# pra criacao de novas colunas usa-se []
 
 #Exportação de arquivos
 write.table(covid_sp_alterado2, file ="covid_sp_tratado.txt", sep = ",")
@@ -163,5 +167,5 @@ write.table(covid_sp_alterado2, file ="covid_sp_tratado.txt", sep = ",")
 # Opção de exportação de arquivos
 install.packages("readr", dependencies = TRUE)
 library("readr")
-write_delim(covid_sp_alterado2, "covid_sp_tratado.csv", delim = ",")
+write_delim(covid_sp_alterado2, "covid_sp_tratado.csv", delim = ";")
 
