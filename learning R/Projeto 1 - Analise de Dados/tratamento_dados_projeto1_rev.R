@@ -54,13 +54,22 @@ covid_sp_alterado <- select(covid_sp_alterado, -c(14,15))
 covid_sp_alterado <- select(covid_sp_alterado, -c(17:19))
 
 
-# EXCLUIR UMA LINHA (POR N?MERO)
+# EXCLUIR UMA LINHA (POR NUMERO)
 covid_sp_alterado <- slice(covid_sp_alterado, -c(239660))
+
+# df <- slice(df, -c(numero_da_linha))
 
 covid_sp_alterado <- slice(covid_sp_alterado, -c(239661:239666))
 
 # EXCLUIR VÁRIAS LINHAS (POR NOME)
 covid_sp_alterado <- covid_sp_alterado %>% filter(municipio!="Ignorado")
+
+#df <- df %>% filter(coluna!=value)
+
+#  %>% is from a package designed to make data analysis more intuitiv
+#      it's known as pipe operator and it is used to "pipe" data through a function, 
+#       the data gets out then verarbeitet
+
 View(covid_sp_alterado)
 
 
@@ -69,35 +78,47 @@ View(covid_sp_alterado)
 
 
 
-# Verificando valores missing (Ausentes)
+# Verificando missing values NA
+
 # NA = valores ausentes
 # NAN = not a number(valor indefinido)
 sapply(covid_sp_alterado, function(x) sum(is.na(x)))
 sapply(covid_sp_alterado, function(x) sum(is.nan(x)))
 
+
+
 #Substituir valores missing
 
 ########### Função mutate all temporariamente desabilitada ######
-# if(!require(tidyr)) install.packages("tidyr")
-# library(tidyr)
+if(!require(tidyr)) install.packages("tidyr")
+ library(tidyr)
 
-# covid_sp_alterado2 <- covid_sp_alterado %>% mutate_all(replace_na, 54)
-# View(covid_sp_alterado2)
+covid_sp_alterado2 <- covid_sp_alterado %>% mutate_all(replace_na, 54)
+View(covid_sp_alterado2)
 ###################################################################
 
 ### OPÇÃO:
 covid_sp_alterado2 <- replace(x = covid_sp_alterado,list = is.na(covid_sp_alterado),
                  values = 54)
 
+# df <- replace(x = df, value_tobe_replaced, new_value)
+
+#OU
+
 covid_sp_alterado2$semana_epidem[covid_sp_alterado2$semana_epidem == 54] <- 2021
+
+# df_that_will_be_changed$coluna[referencia] <- new_value
 
 covid_sp_alterado2$semana_epidem[covid_sp_alterado2$data >= '01/01/2021' &
                                    covid_sp_alterado2$data <= '07/01/2021'  ] <- 54
 
+# df$coluna_cm_valor_a_ser_replaced[df$outra_coluna >= valor_nessa_coluna &
+#                                    df$outra_coluna >= valor_nessa_coluna] <- new_value
 
+# ↓variavel q sera alterada  ↓coluna onde a alteracao ira ocorrer
 covid_sp_alterado2$semana_epidem[covid_sp_alterado2$data >= '08/01/2021' &
-                                   covid_sp_alterado2$data <= '14/01/2021'  ] <- 55
-
+                                    covid_sp_alterado2$data <= '14/01/2021'  ] <- 55
+#                                          [ referencia ]                         ↑ new value
 
 covid_sp_alterado2$semana_epidem[covid_sp_alterado2$data >= '15/01/2021' &
                                    covid_sp_alterado2$data <= '21/01/2021'  ] <- 56
