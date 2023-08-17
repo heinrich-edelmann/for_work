@@ -1,5 +1,5 @@
 #######################
-####    FUNÇÕES     ###
+####    FUNCOES     ###
 #######################
 
 maior = function (x,y) {
@@ -13,6 +13,7 @@ maior = function (x,y) {
 x <- 10
 y <- 8
 maior (x , y)
+maior(x,y)
 
 # OU
 
@@ -22,7 +23,7 @@ maior(-3, -8)
 
 
 pitagoras_hipotenusa <- function (cat1, cat2) {
-  sqrt (cat1**2+cat2**2)
+  sqrt(cat1**2+cat2**2)
 }
 
 pitagoras_hipotenusa(4,3)
