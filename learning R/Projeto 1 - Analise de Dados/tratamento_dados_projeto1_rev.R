@@ -86,8 +86,10 @@ View(covid_sp_alterado)
 
 
 
+setwd("C:/Users/hhhme/Documents/GitHub/for_work/learning R/Projeto 1 - Analise de Dados/dados-covid-sp-master/data")
 
-
+covid_sp_alterado <- read.csv2('covid_sp_tratado.csv', sep = ";")
+View(covid_sp_alterado)
 
 
 # Verificando missing values NA
@@ -151,11 +153,24 @@ glimpse(covid_sp_alterado2)
 #Transformação da tipagem de atributos
 covid_sp_alterado2$semana_epidem <- as.integer(covid_sp_alterado2$semana_epidem)
 glimpse(covid_sp_alterado2)
+View(covid_sp_alterado2)
 
-covid_sp_alterado2$data <- as.Date(covid_sp_alterado2$data, format ='%Y/%m/%d')
+
+covid_sp_alterado2_data <- covid_sp_alterado2$data
+
+View(covid_sp_alterado2_data)
+
+covid_sp_alterado2_data <- as.Date(covid_sp_alterado2_data, format ='%Y-%m-%d')
+glimpse(covid_sp_alterado2_data)
+
+
+
+covid_sp_alterado2$data <- as.Date(covid_sp_alterado2$data, format ='%Y-%m-%d')
 glimpse(covid_sp_alterado2)
 
 covid_sp_alterado2 <- covid_sp_alterado2 %>% mutate(data = format(data, "%d/%m/%Y"))
+glimpse(covid_sp_alterado2)
+
 # ↑↑↑ alterar o jeito q a data foi colocada
 
 # Alterar várias variáveis de uma única vez
@@ -167,6 +182,9 @@ covid_sp_alterado2 <- covid_sp_alterado2 %>% mutate(data = format(data, "%d/%m/%
 covid_sp_alterado2["idoso(%)"]<-(covid_sp_alterado2$pop_60/covid_sp_alterado2$pop)*100
 View(covid_sp_alterado2)
 # pra criacao de novas colunas usa-se []
+
+covid_sp_alterado2 <- select(covid_sp_alterado2, - c(19))
+
 
 #Exportação de arquivos
 write.table(covid_sp_alterado2, file ="covid_sp_tratado.txt", sep = ",")
