@@ -19,6 +19,14 @@ setwd("C:/Users/hhhme/Documents/GitHub/for_work/learning R/Projeto 1 - Analise d
 covid_sp <- read.csv('dados_covid_sp.csv', sep = ";")
 View(covid_sp)
 
+cl <- colnames(covid_sp)
+cl
+
+
+
+
+
+
 covid_sp <- read.csv2('dados_covid_sp.csv', sep = ";", encoding="UTF-8")
 View(covid_sp)
 head(covid_sp)
