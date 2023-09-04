@@ -156,19 +156,19 @@ mean(covid_julho_campinas$casos_novos)
 hist(covid_julho_campinas$obitos_novos, col="blue")
 hist(covid_julho_campinas$casos_novos, col="red")
 
+# ↓ apenas um testezinho pra ver como q desenha a linha da Normalverteilung, pra ver como q os dados estao verteilt
 hist(covid_julho_campinas$obitos_novos, breaks = 20, main = "Histograma")
 x <- seq(min(covid_julho_campinas$obitos_novos), max(covid_julho_campinas$obitos_novos), length = 100)
 y <- dnorm(x, mean = mean(covid_julho_campinas$obitos_novos), sd = sd(covid_julho_campinas$obitos_novos))
 y <- y * sum(diff(hist(covid_julho_campinas$obitos_novos)$mids) * hist(covid_julho_campinas$obitos_novos)$counts)
 lines(x, y, col = "blue")
 
-
 hist(covid_julho_campinas$casos_novos, breaks = 20, main = "Histogram", freq = FALSE)
 x <- seq(min(covid_julho_campinas$casos_novos), max(covid_julho_campinas$casos_novos), length = 100)
 y <- dnorm(x, mean = mean(covid_julho_campinas$casos_novos), sd = sd(covid_julho_campinas$casos_novos))
 y <- y * sum(diff(hist(covid_julho_campinas$casos_novos)$mids) * hist(covid_julho_campinas$casos_novos)$counts)
 lines(x, y, col = "red")
-
+###################################################################################################################
 
 
 hist(covid_campinas$obitos_novos, col="blue")
@@ -292,7 +292,7 @@ var(covid_guarulhos$obitos_novos)
 var(covid_guarulhos$casos_novos)
 
 var(covid_julho_campinas$obitos_novos)
-var(covid_julho_campinas$casos_novos)
+var(covid_julho_campinas$casos_novos)  
 
 
 # Desvio padr?o
@@ -345,7 +345,6 @@ shapiro.test(covid_campinas$casos_novos)
 ad.test(covid_campinas$casos_novos)
 
 # Kolmogorov_Smirnov
-ks.test(covid_campinas$casos_novos, pnorm)
 lillie.test(covid_campinas$casos_novos)
 
 #Cramer-Von Mises
